@@ -5,7 +5,8 @@
 # Zixuan,Li's email: zil142@pitt.edu
 
 # Chang's Personal notebook is [Chang,Zhou]'s works
-# Zixuan's Personal notebook is [Zixuan,Li]'s works
+# Final Project_ZixuanLi is [Zixuan,Li]'s works
+# But actually, Final Combined Notebook is the result of our collaboration, where we coded together.
 
 # This database records all the datasets, charts, analysis plans, analysis processes, and conclusions used to analyze and evaluate "Pittsburgh's Best Security Communities."
 
